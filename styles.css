@@ -1,0 +1,21 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(87, 158, 221);
+}
+
+.custom-item{
+    color: white;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+
+select{
+    text-align-last: center;
+}
+
+#label{
+    font-size: 20px;
+}
